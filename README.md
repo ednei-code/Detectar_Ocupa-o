@@ -1,2 +1,2 @@
-# Detectar_Ocupa-o
+# Detectar_Ocupação
 Detectar Ocupação - Classificação Machine Learning
