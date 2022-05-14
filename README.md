@@ -17,4 +17,9 @@ objetivo do projeto!
 
 Ao final um relatório completo com métricas de acertos e erros do modelos.
 
+=========================================================================================================
+se quiser me contratar para um relatório ou algumas vizualização de dados:
+contatos: ednei.adgpo@gmail.com   https://www.linkedin.com/in/ednei-cunha-vicente-551b64187/
+
+
 
